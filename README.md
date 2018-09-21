@@ -10,7 +10,7 @@ which users can experience a fraction of the events that occur on campus.
 
 ## Built With
 
-* [Dropwizard](https://www.typescriptlang.org/) - A much better 
+* [Typescript](https://www.typescriptlang.org/) - A much better 
 replacement to Javascript
 
 ## License
