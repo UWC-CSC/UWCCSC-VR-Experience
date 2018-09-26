@@ -12,6 +12,7 @@ which users can experience a fraction of the events that occur on campus.
 
 * [Typescript](https://www.typescriptlang.org/) - A much better 
 replacement to Javascript
+* [Webpack](https://webpack.js.org/) - Asset bundler
 
 ## License
 This project is licensed under the LGPLv3 license - see the 
