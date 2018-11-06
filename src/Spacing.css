@@ -1,0 +1,38 @@
+/* Phones */
+.m-top-m {
+  margin-top: 5vw;
+}
+
+/* Tablets */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .m-top-m {
+    margin-top: 8vw;
+  }
+}
+
+/* Desktop */
+@media only screen and (min-width: 992px) {
+  .m-top-m {
+    margin-top: 5vw;
+  }
+}
+
+
+/* Phones */
+.m-bot-xs {
+  margin-bottom: 2vh;
+}
+
+/* Tablets */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .m-bot-xs {
+    margin-bottom: 2vh;
+  }
+}
+
+/* Desktop */
+@media only screen and (min-width: 992px) {
+  .m-bot-xs {
+    margin-bottom: 2vh;
+  }
+}

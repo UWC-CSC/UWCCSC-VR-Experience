@@ -1,0 +1,21 @@
+.logoTransitionState-enter {
+  opacity: 0.01;
+  width: 0px;
+}
+
+.logoTransitionState-enter.logoTransitionState-enter-active {
+  opacity: 1;
+  width: 100px;
+  transition: 700ms;
+}
+
+.logoTransitionState-leave {
+  opacity: 1;
+  width: 100px;
+}
+
+.logoTransitionState-leave.logoTransitionState-leave-active {
+  opacity: 0.01;
+  width: 0px;
+  transition: 700ms;
+}

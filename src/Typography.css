@@ -1,0 +1,16 @@
+h5, h6 {
+  margin: 0;
+  text-align: center;
+}
+
+h5 {
+  font-size: 1.5rem;
+  font-weight: normal;
+
+  text-shadow: 0 0 0.3rem #000;
+}
+
+h6 {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
