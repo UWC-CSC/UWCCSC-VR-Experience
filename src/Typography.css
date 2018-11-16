@@ -14,3 +14,41 @@ h6 {
   font-size: 1.25rem;
   font-weight: bold;
 }
+
+a {
+  text-decoration: none;
+  color: #E0FFFE;
+}
+
+button {
+  background: none !important;
+  color: inherit;
+  border: none;
+  padding: 0 !important;
+  font: inherit;
+  cursor: pointer;
+}
+
+/* Desktops */
+@media only screen and (min-width: 992px) {
+  .padded-text {
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+}
+
+/* Tablets */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .padded-text {
+    margin-left: 15%;
+    margin-right: 15%;
+  }
+}
+
+/* Phones */
+@media only screen and (max-width: 767px) {
+  .padded-text {
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+}

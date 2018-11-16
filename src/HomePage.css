@@ -1,0 +1,30 @@
+.HomePage {
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  font-family: 'Roboto', sans-serif;
+  color: #E0FFFE;
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  box-shadow: inset 0px 0px 50px #000;
+}
+
+.v-center {
+  flex-grow: 1;
+}
+
+.flex-v {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
